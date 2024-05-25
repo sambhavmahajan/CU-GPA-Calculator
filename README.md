@@ -1,5 +1,5 @@
 # CU-GPA-Calculator
-A GPA calculator for Chandigarh University Students.
+A GPA calculator for University Students.
 
 This Java program calculates the Grade Point Average (GPA) based on the grades and credits entered by the user.
 

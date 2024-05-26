@@ -4,15 +4,15 @@ public class GpaCalc {
 	private static HashMap<String, Double> gradeMap = new HashMap<>();
 	public static void main(String[] args) {
 		gradeMap.put("a+", 10d);
-        gradeMap.put("a", 9d);
-        gradeMap.put("b+", 8d);
-        gradeMap.put("b", 7d);
-        gradeMap.put("c+", 6d);
-        gradeMap.put("c", 5d);
-        gradeMap.put("d", 4d);
-        gradeMap.put("e", 0d);
-        gradeMap.put("f", 0d);
-        gradeMap.put("i", 0d);
+        	gradeMap.put("a", 9d);
+        	gradeMap.put("b+", 8d);
+        	gradeMap.put("b", 7d);
+        	gradeMap.put("c+", 6d);
+        	gradeMap.put("c", 5d);
+        	gradeMap.put("d", 4d);
+        	gradeMap.put("e", 0d);
+        	gradeMap.put("f", 0d);
+        	gradeMap.put("i", 0d);
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Total Subjects: ");
 		int n = sc.nextInt();
